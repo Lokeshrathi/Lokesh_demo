@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Lokesh Rathi</title>
+    <link>https://lokeshrathi.github.io/Lokesh_Portfolio1/post/</link>
+    <description>Recent content in Projects on Lokesh Rathi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://lokeshrathi.github.io/Lokesh_Portfolio1/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Investment Analysis</title>
+      <link>https://lokeshrathi.github.io/Lokesh_Portfolio1/post/project1/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://lokeshrathi.github.io/Lokesh_Portfolio1/post/project1/</guid>
+      <description>This project focuses on gaining insights into business and understanding the driving factors behind loan defaulters and how the loans are issued. Perfomred Feature Exngineering to derieve insights on the data and used Exploratory Data Analysis. This Analysis report shows Online Loan study, where multiple derivations based on Return of Investment,Loan Defaulted, Nu mber of loans issued based on employment, state, loan_puprose and other metrics have been depicted. Feature Engineetring to extarct variable data columns for analysis on loan defaulters.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Bangalore House Rate Projection</title>
+      <link>https://lokeshrathi.github.io/Lokesh_Portfolio1/post/project2/</link>
+      <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://lokeshrathi.github.io/Lokesh_Portfolio1/post/project2/</guid>
+      <description>Using Pandas library to perform Exploratory Data Analysis, where people can guess an estimate of house prices at various places in Bangalore. Removing Outliers using Mean and Standard Deviation for better understanding of the data. Performed One Hot Encoding to train and test the Linear Regression model to arrive at a r^2 value of 0.86. for the prediction of house price. Local deployment using Flask.    Link to repository</description>
+    </item>
+    
+  </channel>
+</rss>
